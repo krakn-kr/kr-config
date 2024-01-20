@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs Default from docker compose"
+  message: "Welcome to EazyBank accounts related local APIs Default from docker Jai Sriram compose"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
