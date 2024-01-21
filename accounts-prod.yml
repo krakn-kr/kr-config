@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod"
+  message: "Welcome to EazyBank accounts related KRAKN prod"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}ac42aa5858cb8a1c6d82f3b466b2636045e9e1690c444c2da6de58e6241cddd0660c2ba3931b8b8bb7053894b7b8fbc7"
